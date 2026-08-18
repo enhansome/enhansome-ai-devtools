@@ -19,7 +19,7 @@
             "last_commit": "2026-06-04T05:55:39Z",
             "owner": "cafeTechne",
             "repo": "antigravity-link-extension",
-            "stars": 206
+            "stars": 205
           }
         },
         {
@@ -61,10 +61,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-17T10:35:08Z",
+            "last_commit": "2026-08-18T10:33:28Z",
             "owner": "manaflow-ai",
             "repo": "cmux",
-            "stars": 26137
+            "stars": 26183
           }
         },
         {
@@ -78,7 +78,7 @@
             "last_commit": "2026-08-14T22:07:51Z",
             "owner": "JuliusBrussee",
             "repo": "cavekit",
-            "stars": 1143
+            "stars": 1144
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-08-12T05:49:09Z",
             "owner": "fengshao1227",
             "repo": "ccg-workflow",
-            "stars": 5826
+            "stars": 5830
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-15T02:18:51Z",
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1534
+            "stars": 1552
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-07-27T13:30:50Z",
             "owner": "Houseofmvps",
             "repo": "codesight",
-            "stars": 1362
+            "stars": 1372
           }
         },
         {
@@ -151,7 +151,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T10:18:04Z",
+            "last_commit": "2026-08-18T10:18:00Z",
             "owner": "reyamira",
             "repo": "models",
             "stars": 492
@@ -168,7 +168,7 @@
             "last_commit": "2026-08-01T19:52:18Z",
             "owner": "oxgeneral",
             "repo": "ORCH",
-            "stars": 142
+            "stars": 144
           }
         },
         {
@@ -179,10 +179,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T04:07:08Z",
+            "last_commit": "2026-08-18T07:24:09Z",
             "owner": "Muvon",
             "repo": "octomind",
-            "stars": 108
+            "stars": 109
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2026-08-14T11:22:03Z",
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 978
+            "stars": 977
           }
         },
         {
@@ -322,10 +322,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T15:14:21Z",
+            "last_commit": "2026-08-18T10:26:51Z",
             "owner": "im4codes",
             "repo": "imcodes",
-            "stars": 962
+            "stars": 963
           }
         },
         {
@@ -364,7 +364,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-07-23T03:00:13Z",
+            "last_commit": "2026-08-18T07:01:06Z",
             "owner": "larryxiao",
             "repo": "openquack",
             "stars": 47
@@ -381,7 +381,7 @@
             "last_commit": "2026-08-15T11:20:15Z",
             "owner": "codika-io",
             "repo": "clave",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -432,7 +432,7 @@
             "last_commit": "2026-08-16T07:59:00Z",
             "owner": "The-PR-Agent",
             "repo": "pr-agent",
-            "stars": 12575
+            "stars": 12598
           }
         },
         {
@@ -446,7 +446,7 @@
             "last_commit": "2026-08-12T20:06:58Z",
             "owner": "Nayjest",
             "repo": "Gito",
-            "stars": 420
+            "stars": 421
           }
         },
         {
@@ -527,7 +527,7 @@
             "last_commit": "2026-08-17T06:26:47Z",
             "owner": "mindfold-ai",
             "repo": "Trellis",
-            "stars": 13975
+            "stars": 13998
           }
         },
         {
@@ -538,7 +538,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T05:50:15Z",
+            "last_commit": "2026-08-18T06:41:33Z",
             "owner": "marcus",
             "repo": "sidecar",
             "stars": 1046
@@ -552,10 +552,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T10:24:25Z",
+            "last_commit": "2026-08-18T10:30:27Z",
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 914
+            "stars": 923
           }
         },
         {
@@ -569,7 +569,7 @@
             "last_commit": "2026-06-30T20:58:13Z",
             "owner": "swarmclawai",
             "repo": "swarmclaw",
-            "stars": 647
+            "stars": 648
           }
         },
         {
@@ -611,7 +611,7 @@
             "last_commit": "2026-08-10T08:46:59Z",
             "owner": "shep-ai",
             "repo": "shep",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -622,10 +622,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T11:13:36Z",
+            "last_commit": "2026-08-17T19:46:12Z",
             "owner": "looptroop-ai",
             "repo": "LoopTroop",
-            "stars": 118
+            "stars": 121
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-06-24T03:56:01Z",
             "owner": "bolivian-peru",
             "repo": "os-moda",
-            "stars": 115
+            "stars": 116
           }
         },
         {
@@ -650,7 +650,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T06:43:29Z",
+            "last_commit": "2026-08-18T09:56:43Z",
             "owner": "avelikiy",
             "repo": "great_cto",
             "stars": 78
@@ -664,7 +664,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T06:43:29Z",
+            "last_commit": "2026-08-18T09:56:43Z",
             "owner": "avelikiy",
             "repo": "great_cto",
             "stars": 78
@@ -732,10 +732,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T10:14:40Z",
+            "last_commit": "2026-08-18T10:10:02Z",
             "owner": "metalbear-co",
             "repo": "mirrord",
-            "stars": 5263
+            "stars": 5267
           }
         },
         {
@@ -746,7 +746,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T09:32:42Z",
+            "last_commit": "2026-08-18T09:52:07Z",
             "owner": "Th0rgal",
             "repo": "sandboxed.sh",
             "stars": 484
@@ -774,7 +774,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T08:17:00Z",
+            "last_commit": "2026-08-18T05:15:56Z",
             "owner": "stacklok",
             "repo": "brood-box",
             "stars": 58
@@ -822,7 +822,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T07:40:30Z",
+            "last_commit": "2026-08-18T09:28:36Z",
             "owner": "juyterman1000",
             "repo": "entroly",
             "stars": 437
@@ -836,7 +836,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T21:08:15Z",
+            "last_commit": "2026-08-17T19:12:38Z",
             "owner": "digipulse-engineering",
             "repo": "GAAI-framework",
             "stars": 158
@@ -850,7 +850,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T09:07:45Z",
+            "last_commit": "2026-08-18T10:24:30Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 128
@@ -892,7 +892,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T07:56:46Z",
+            "last_commit": "2026-08-17T15:52:34Z",
             "owner": "GeiserX",
             "repo": "LynxPrompt",
             "stars": 43
@@ -934,10 +934,24 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T06:25:33Z",
+            "last_commit": "2026-08-18T05:43:11Z",
             "owner": "Wolfe-Jam",
             "repo": "faf-cli",
             "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ctxlint",
+          "description": "Open-source linter for AI context files (CLAUDE.md, .cursorrules, copilot-instructions.md) that catches stale paths, wrong commands, and token waste by validating against the real codebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-16T14:51:00Z",
+            "owner": "YawLabs",
+            "repo": "ctxlint",
+            "stars": 8
           }
         },
         {
@@ -952,20 +966,6 @@
             "owner": "samfoy",
             "repo": "pi-steering-hooks",
             "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ctxlint",
-          "description": "Open-source linter for AI context files (CLAUDE.md, .cursorrules, copilot-instructions.md) that catches stale paths, wrong commands, and token waste by validating against the real codebase.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T14:51:00Z",
-            "owner": "YawLabs",
-            "repo": "ctxlint",
-            "stars": 7
           }
         },
         {
@@ -1064,10 +1064,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T08:34:55Z",
+            "last_commit": "2026-08-18T04:20:00Z",
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 4998
+            "stars": 5027
           }
         },
         {
@@ -1109,7 +1109,7 @@
             "last_commit": "2026-08-17T01:11:50Z",
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -1137,7 +1137,7 @@
             "last_commit": "2026-08-10T13:12:00Z",
             "owner": "jeongwookie",
             "repo": "WhereMyTokens",
-            "stars": 68
+            "stars": 69
           }
         },
         {
@@ -1202,7 +1202,7 @@
             "last_commit": "2026-07-23T07:25:59Z",
             "owner": "jnMetaCode",
             "repo": "ai-coding-guide",
-            "stars": 500
+            "stars": 503
           }
         },
         {
@@ -1213,10 +1213,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-15T18:02:41Z",
+            "last_commit": "2026-08-17T18:02:40Z",
             "owner": "nowork-studio",
             "repo": "awesome-ai-startups",
-            "stars": 69
+            "stars": 71
           }
         },
         {
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:36:50.214Z",
+    "last_updated": "2026-08-18T10:33:33.164Z",
     "original_repository": "jamesmurdza/awesome-ai-devtools",
     "original_repository_sha": "90b5d6207719bbffa7417eeee3d326145accfa33",
     "enhanced_repository": "enhansome/enhansome-ai-devtools",
