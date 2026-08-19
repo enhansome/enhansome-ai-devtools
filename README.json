@@ -57,10 +57,10 @@
                 "archived": false,
                 "id": 1144115288,
                 "language": "Swift",
-                "last_commit": "2026-08-19T10:30:54Z",
+                "last_commit": "2026-08-19T12:07:07Z",
                 "owner": "manaflow-ai",
                 "repo": "cmux",
-                "stars": 26225
+                "stars": 26227
               }
             },
             {
@@ -127,7 +127,7 @@
                 "last_commit": "2026-08-15T02:18:51Z",
                 "owner": "iwe-org",
                 "repo": "iwe",
-                "stars": 1556
+                "stars": 1557
               }
             },
             {
@@ -154,7 +154,7 @@
                 "archived": false,
                 "id": 1130545281,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:18:24Z",
+                "last_commit": "2026-08-19T11:48:20Z",
                 "owner": "reyamira",
                 "repo": "models",
                 "stars": 493
@@ -343,7 +343,7 @@
             "archived": false,
             "id": 1185233810,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T10:06:12Z",
+            "last_commit": "2026-08-19T10:52:18Z",
             "owner": "im4codes",
             "repo": "imcodes",
             "stars": 963
@@ -444,7 +444,7 @@
                 "last_commit": "2026-08-19T08:39:02Z",
                 "owner": "The-PR-Agent",
                 "repo": "pr-agent",
-                "stars": 12614
+                "stars": 12615
               }
             },
             {
@@ -459,7 +459,7 @@
                 "last_commit": "2026-08-12T20:06:58Z",
                 "owner": "Nayjest",
                 "repo": "Gito",
-                "stars": 421
+                "stars": 422
               }
             },
             {
@@ -547,7 +547,7 @@
                 "last_commit": "2026-08-19T10:30:32Z",
                 "owner": "mindfold-ai",
                 "repo": "Trellis",
-                "stars": 14032
+                "stars": 14036
               }
             },
             {
@@ -577,7 +577,7 @@
                 "last_commit": "2026-08-19T05:18:14Z",
                 "owner": "sipyourdrink-ltd",
                 "repo": "bernstein",
-                "stars": 931
+                "stars": 932
               }
             },
             {
@@ -679,7 +679,7 @@
                 "archived": false,
                 "id": 1201775350,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T08:39:34Z",
+                "last_commit": "2026-08-19T11:19:42Z",
                 "owner": "avelikiy",
                 "repo": "great_cto",
                 "stars": 78
@@ -694,7 +694,7 @@
                 "archived": false,
                 "id": 1201775350,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T08:39:34Z",
+                "last_commit": "2026-08-19T11:19:42Z",
                 "owner": "avelikiy",
                 "repo": "great_cto",
                 "stars": 78
@@ -764,7 +764,7 @@
                 "last_commit": "2026-08-19T10:10:10Z",
                 "owner": "metalbear-co",
                 "repo": "mirrord",
-                "stars": 5269
+                "stars": 5270
               }
             },
             {
@@ -888,7 +888,7 @@
                 "archived": false,
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T10:32:08Z",
+                "last_commit": "2026-08-19T11:48:09Z",
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 127
@@ -1108,7 +1108,7 @@
                 "last_commit": "2026-08-19T02:59:21Z",
                 "owner": "junhoyeo",
                 "repo": "tokscale",
-                "stars": 5041
+                "stars": 5043
               }
             },
             {
@@ -1277,8 +1277,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:33:46.674Z",
+    "last_updated": "2026-08-19T12:15:31.286Z",
     "original_repository": "jamesmurdza/awesome-ai-devtools",
+    "original_repository_id": 674164679,
     "original_repository_sha": "90b5d6207719bbffa7417eeee3d326145accfa33",
     "enhanced_repository": "enhansome/enhansome-ai-devtools",
     "enhanced_repository_description": null,

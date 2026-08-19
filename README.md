@@ -3,7 +3,7 @@
 This is a curated list of AI-powered developer tools. These tools leverage AI to assist developers in tasks such as code completion, refactoring, debugging, documentation, and more.
 
 > \[!IMPORTANT]
-> Please read the [contribution rules](https://github.com/jamesmurdza/awesome-ai-devtools/blob/7ac2078505606be2dd84c24075744a3643f08241/.github/PULL_REQUEST_TEMPLATE.md?plain=1#L4-L10) ⭐ 3,916 | 🐛 246 | 📅 2026-07-11 before submitting a PR.
+> Please read the [contribution rules](https://github.com/jamesmurdza/awesome-ai-devtools/blob/7ac2078505606be2dd84c24075744a3643f08241/.github/PULL_REQUEST_TEMPLATE.md?plain=1#L4-L10) ⭐ 3,916 | 🐛 247 | 📅 2026-07-11 before submitting a PR.
 
 ## Categories
 
@@ -100,7 +100,7 @@ Plugins that add AI-powered completion, chat, and refactoring to existing code e
 
 Autonomous CLI agents that generate code, execute shell commands, and manage multi-file workflows:
 
-* [cmux](https://github.com/manaflow-ai/cmux) ⭐ 26,225 | 🐛 4,373 | 🌐 Swift | 📅 2026-08-19 — A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Features notification rings, in-app browser, SSH support, and Claude Code Teams integration.
+* [cmux](https://github.com/manaflow-ai/cmux) ⭐ 26,227 | 🐛 4,382 | 🌐 Swift | 📅 2026-08-19 — A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Features notification rings, in-app browser, SSH support, and Claude Code Teams integration.
 * [Blueprint](https://github.com/JuliusBrussee/blueprint) ⭐ 1,143 | 🐛 17 | 📅 2026-08-14 — A Claude Code plugin that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software with automated iteration, validation, and cross-model peer review.
 * [Axon](https://github.com/kill136/axon) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-05 — Open-source AI coding assistant with Web IDE, multi-agent system, 37+ tools, and MCP protocol support. Features Monaco editor, self-modification capabilities, and multiple AI provider integrations.
 * [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) - Anthropic's agentic coding tool.
@@ -123,7 +123,7 @@ Autonomous CLI agents that generate code, execute shell commands, and manage mul
 Lightweight command-line tools for AI-assisted commits, shell translation, and workflow automation:
 
 * [CCG Workflow](https://github.com/fengshao1227/ccg-workflow) ⭐ 5,834 | 🐛 4 | 🌐 Go | 📅 2026-08-18 — Multi-model collaboration system for Claude Code. Orchestrates Claude + Codex + Gemini with 28 slash commands, smart routing (Gemini for frontend, Codex for backend), Agent Teams for parallel development, and 6 built-in quality gate skills. One-command install via npx.
-* [IWE](https://github.com/iwe-org/iwe) ⭐ 1,556 | 🐛 3 | 🌐 Rust | 📅 2026-08-15 — Markdown knowledge graph with CLI that gives AI agents structured access to your knowledge base — no vector database required.
+* [IWE](https://github.com/iwe-org/iwe) ⭐ 1,557 | 🐛 3 | 🌐 Rust | 📅 2026-08-15 — Markdown knowledge graph with CLI that gives AI agents structured access to your knowledge base — no vector database required.
 * [codesight](https://github.com/Houseofmvps/codesight) ⭐ 1,374 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-27 — CLI token optimizer and AI context generator. Scans codebases to extract routes, schema, components, and dependencies for Claude Code, Cursor, Copilot, Codex, and Windsurf. 9x–13x token reduction, built-in MCP server, zero runtime dependencies.
 * [models](https://github.com/arimxyer/models) ⭐ 493 | 🐛 0 | 🌐 Rust | 📅 2026-08-19 — A TUI for browsing AI models, benchmarks from Artificial Analysis, and coding agents with GitHub integration. Built with Rust and Ratatui.
 * [ORCH](https://github.com/oxgeneral/ORCH) ⭐ 144 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-01 — CLI runtime that coordinates Claude Code, OpenCode, Codex, and Cursor as a typed AI team. State machine (todo→review→done), auto-retry, inter-agent messaging, TUI dashboard.
@@ -265,8 +265,8 @@ Native apps for AI-powered coding, terminal enhancement, and agent orchestration
 
 Integrations that automatically review pull requests and suggest code fixes:
 
-* [Qodo PR Agent](https://github.com/qodo-ai/pr-agent) ⭐ 12,614 | 🐛 140 | 🌐 Python | 📅 2026-08-19 — Open source tool for automated code reviews. Qodo was formerly known as Codium (not to be confused with Codeium with an "E").
-* [Gito](https://github.com/Nayjest/Gito) ⭐ 421 | 🐛 69 | 🌐 Python | 📅 2026-08-12 - AI code reviewer that works with any language model, locally or in GitHub Actions.
+* [Qodo PR Agent](https://github.com/qodo-ai/pr-agent) ⭐ 12,615 | 🐛 140 | 🌐 Python | 📅 2026-08-19 — Open source tool for automated code reviews. Qodo was formerly known as Codium (not to be confused with Codeium with an "E").
+* [Gito](https://github.com/Nayjest/Gito) ⭐ 422 | 🐛 69 | 🌐 Python | 📅 2026-08-12 - AI code reviewer that works with any language model, locally or in GitHub Actions.
 * [Z.ai Code Review](https://github.com/tarmojussila/zai-code-review) ⭐ 42 | 🐛 3 | 🌐 JavaScript | 📅 2026-04-16 - AI-powered GitHub Pull Request code review using Z.ai models.
 * [MiniMax Code Review](https://github.com/tarmojussila/minimax-code-review) ⭐ 18 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-16 - AI-powered GitHub Pull Request code review using MiniMax models.
 * [Issue AI Agent](https://github.com/alexyan0431/issue-ai-agent) ⭐ 4 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-21 — Open source GitHub Action that auto-classifies, labels, and replies to issues using AI. Detects duplicates and handles follow-up comments. Supports Claude, OpenAI, and OpenAI-compatible APIs (BYOK). MIT licensed.
@@ -318,9 +318,9 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 
 Platforms for running multiple AI coding agents in parallel with workspace isolation:
 
-* [Trellis](https://github.com/mindfold-ai/Trellis) ⭐ 14,032 | 🐛 38 | 🌐 TypeScript | 📅 2026-08-19 — All-in-one AI framework & toolkit for Claude Code & Cursor. Manages tasks, specs, and multi-agent pipelines.
+* [Trellis](https://github.com/mindfold-ai/Trellis) ⭐ 14,036 | 🐛 38 | 🌐 TypeScript | 📅 2026-08-19 — All-in-one AI framework & toolkit for Claude Code & Cursor. Manages tasks, specs, and multi-agent pipelines.
 * [Sidecar](https://github.com/marcus/sidecar) ⭐ 1,046 | 🐛 63 | 🌐 Go | 📅 2026-08-19 — Terminal UI companion for CLI-based coding agents (Claude Code, Cursor, Gemini) with unified conversation history, git integration, task management, and workspace control.
-* [Bernstein](https://github.com/chernistry/bernstein) ⭐ 931 | 🐛 213 | 🌐 Python | 📅 2026-08-19 — Deterministic multi-agent orchestrator that spawns parallel coding agents (Claude Code, Codex CLI, Gemini CLI) from a single goal, verifies with tests, and auto-commits. Zero LLM tokens on coordination.
+* [Bernstein](https://github.com/chernistry/bernstein) ⭐ 932 | 🐛 215 | 🌐 Python | 📅 2026-08-19 — Deterministic multi-agent orchestrator that spawns parallel coding agents (Claude Code, Codex CLI, Gemini CLI) from a single goal, verifies with tests, and auto-commits. Zero LLM tokens on coordination.
 * [SwarmClaw](https://github.com/swarmclawai/swarmclaw) ⭐ 648 | 🐛 13 | 🌐 TypeScript | 📅 2026-06-30 - Self-hosted AI runtime that orchestrates Claude Code, Codex, Gemini CLI, OpenCode, Copilot CLI, Cursor Agent, Goose, Qwen Code, and Droid with heartbeats, schedules, delegation, runtime skills, and an org chart view. Ships as a desktop app (Electron) and CLI. MIT licensed, TypeScript.
 * [GolemBot](https://github.com/0xranx/golembot) ⭐ 315 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-18 — Unified framework wrapping Claude Code, Cursor, OpenCode, and Codex CLIs behind a single streaming API. Adds IM adapters (Slack, Telegram, Discord, Feishu), Skill system, fleet mode, and HTTP embedding.
 * [OpenASE](https://github.com/pacificstudio/openase) ⭐ 264 | 🐛 45 | 🌐 Go | 📅 2026-08-09 — Open-source ticket-driven platform for orchestrating Claude Code, Codex, and Gemini CLI agents across isolated workspaces and status-based workflows.
@@ -345,7 +345,7 @@ Platforms for running multiple AI coding agents in parallel with workspace isola
 
 Secure isolated environments for running AI coding agents with controlled access:
 
-* [mirrord](https://github.com/metalbear-co/mirrord) ⭐ 5,269 | 🐛 76 | 🌐 Rust | 📅 2026-08-19 — Per-agent isolation inside a shared Kubernetes cluster: traffic filters, DB branches, and Kafka queue splits via the mirrord Operator. Six [Claude Code skills](https://github.com/metalbear-co/skills) ⭐ 27 | 🐛 4 | 🌐 Shell | 📅 2026-08-18 cover quickstart, config, operator setup, CI, DB branching, and Kafka splitting; install via `/plugin marketplace add metalbear-co/skills`.
+* [mirrord](https://github.com/metalbear-co/mirrord) ⭐ 5,270 | 🐛 76 | 🌐 Rust | 📅 2026-08-19 — Per-agent isolation inside a shared Kubernetes cluster: traffic filters, DB branches, and Kafka queue splits via the mirrord Operator. Six [Claude Code skills](https://github.com/metalbear-co/skills) ⭐ 27 | 🐛 4 | 🌐 Shell | 📅 2026-08-19 cover quickstart, config, operator setup, CI, DB branching, and Kafka splitting; install via `/plugin marketplace add metalbear-co/skills`.
 * [Open Agent](https://github.com/Th0rgal/openagent) ⭐ 486 | 🐛 17 | 🌐 Rust | 📅 2026-08-19 — Self-hosted control plane for Claude Code with isolated container workspaces and real-time mission streaming.
 * [AgentTier](https://github.com/agenttier/agenttier) ⭐ 72 | 🐛 18 | 🌐 Go | 📅 2026-08-19 — Open-source, Kubernetes-native sandbox runtime for AI coding agents (Claude Code, LangGraph, OpenHands). Each sandbox is a Pod + PVC + default-deny NetworkPolicy with optional gVisor isolation; runs in interactive `mode: code` (browser terminal) or `mode: agent` (REST `/configure` + SSE-streaming `/invoke`). Apache-2.0.
 * [brood-box](https://github.com/stacklok/brood-box) ⭐ 58 | 🐛 13 | 🌐 Go | 📅 2026-08-18 — Run coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation and egress control.
@@ -390,7 +390,7 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 
 Tools for monitoring token usage and API costs across AI providers:
 
-* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,041 | 🐛 61 | 🌐 Rust | 📅 2026-08-19 — CLI tool for tracking token usage from AI coding agents (OpenCode, Claude Code, OpenClaw, Codex, Gemini CLI, Cursor IDE, AmpCode, Factory Droid) with a global leaderboard and 2D/3D contribution graphs.
+* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,043 | 🐛 62 | 🌐 Rust | 📅 2026-08-19 — CLI tool for tracking token usage from AI coding agents (OpenCode, Claude Code, OpenClaw, Codex, Gemini CLI, Cursor IDE, AmpCode, Factory Droid) with a global leaderboard and 2D/3D contribution graphs.
 * [onWatch](https://github.com/onllm-dev/onwatch) ⭐ 713 | 🐛 10 | 🌐 Go | 📅 2026-07-31 — Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI Codex, GitHub Copilot, Synthetic, Z.ai, MiniMax, Antigravity). Background daemon with Material Design 3 web dashboard, \~15MB binary, <50MB RAM, zero telemetry.
 * [claude-lens](https://github.com/Astro-Han/claude-lens) ⭐ 223 | 🐛 3 | 🌐 Shell | 📅 2026-07-28 — Lightweight Bash + jq statusline for Claude Code with rate limit pace tracking. Compares burn rate to time remaining in 5h/7d windows, showing whether usage is ahead or behind sustainable pace. Single file, zero dependencies beyond jq.
 * [agenttrace](https://github.com/luoyuctl/agenttrace) ⭐ 121 | 🐛 8 | 🌐 Rust | 📅 2026-08-17 — Local-first TUI observability for AI coding agents. Tracks cost, tokens, tool failures, anomalies, health, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
