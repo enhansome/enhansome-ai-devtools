@@ -18,7 +18,8 @@
                 "owner": "cafeTechne",
                 "repo": "antigravity-link-extension",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-04-28T14:55:44Z",
                 "owner": "onllm-dev",
                 "repo": "onUI",
-                "stars": 96
-              }
+                "stars": 97
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             }
           ],
           "description": "Plugins that add AI-powered completion, chat, and refactoring to existing code editors:",
@@ -57,11 +59,12 @@
                 "archived": false,
                 "id": 1144115288,
                 "language": "Swift",
-                "last_commit": "2026-08-27T20:06:36Z",
+                "last_commit": "2026-08-28T21:08:11Z",
                 "owner": "manaflow-ai",
                 "repo": "cmux",
-                "stars": 26526
-              }
+                "stars": 26554
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -75,8 +78,9 @@
                 "last_commit": "2026-08-14T22:07:51Z",
                 "owner": "JuliusBrussee",
                 "repo": "cavekit",
-                "stars": 1141
-              }
+                "stars": 1142
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             }
           ],
           "description": "Autonomous CLI agents that generate code, execute shell commands, and manage multi-file workflows:",
@@ -94,11 +98,12 @@
                 "archived": false,
                 "id": 1127793756,
                 "language": "Go",
-                "last_commit": "2026-08-27T04:19:46Z",
+                "last_commit": "2026-08-28T04:59:03Z",
                 "owner": "fengshao1227",
                 "repo": "ccg-workflow",
-                "stars": 5851
-              }
+                "stars": 5853
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -109,11 +114,12 @@
                 "archived": false,
                 "id": 860188605,
                 "language": "Rust",
-                "last_commit": "2026-08-24T23:00:42Z",
+                "last_commit": "2026-08-28T11:59:35Z",
                 "owner": "iwe-org",
                 "repo": "iwe",
-                "stars": 1577
-              }
+                "stars": 1582
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -127,8 +133,9 @@
                 "last_commit": "2026-07-27T13:30:50Z",
                 "owner": "Houseofmvps",
                 "repo": "codesight",
-                "stars": 1388
-              }
+                "stars": 1390
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -139,11 +146,12 @@
                 "archived": false,
                 "id": 1130545281,
                 "language": "Rust",
-                "last_commit": "2026-08-27T19:48:37Z",
+                "last_commit": "2026-08-28T20:48:31Z",
                 "owner": "reyamira",
                 "repo": "models",
-                "stars": 500
-              }
+                "stars": 501
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -157,8 +165,9 @@
                 "last_commit": "2026-08-01T19:52:18Z",
                 "owner": "oxgeneral",
                 "repo": "ORCH",
-                "stars": 151
-              }
+                "stars": 153
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -169,11 +178,12 @@
                 "archived": false,
                 "id": 994166447,
                 "language": "Rust",
-                "last_commit": "2026-08-27T13:09:40Z",
+                "last_commit": "2026-08-28T17:40:43Z",
                 "owner": "Muvon",
                 "repo": "octomind",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -188,7 +198,8 @@
                 "owner": "baz-scm",
                 "repo": "baz-cli",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                 "owner": "belingud",
                 "repo": "gptcomet",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -218,7 +230,8 @@
                 "owner": "Shashwat-Gupta57",
                 "repo": "Jctx",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -233,7 +246,8 @@
                 "owner": "Lucas2944",
                 "repo": "prpack",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             }
           ],
           "description": "Lightweight command-line tools for AI-assisted commits, shell translation, and workflow automation:",
@@ -261,7 +275,8 @@
                 "owner": "reflex-search",
                 "repo": "reflex",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -275,8 +290,9 @@
                 "last_commit": "2026-07-17T13:40:59Z",
                 "owner": "ashfordeOU",
                 "repo": "grasp",
-                "stars": 14
-              }
+                "stars": 16
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -291,7 +307,8 @@
                 "owner": "maroondlabs",
                 "repo": "sourcebook",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             }
           ],
           "description": "Tools for understanding, navigating, and getting answers about existing codebases:",
@@ -313,11 +330,12 @@
             "archived": false,
             "id": 1160727878,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:08:41Z",
+            "last_commit": "2026-08-28T09:34:56Z",
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 997
-          }
+            "stars": 996
+          },
+          "first_seen": "2026-08-28T21:09:04.140Z"
         },
         {
           "node_type": "item",
@@ -328,11 +346,12 @@
             "archived": false,
             "id": 1185233810,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:03:34Z",
+            "last_commit": "2026-08-28T18:56:46Z",
             "owner": "im4codes",
             "repo": "imcodes",
-            "stars": 972
-          }
+            "stars": 973
+          },
+          "first_seen": "2026-08-28T21:09:04.140Z"
         },
         {
           "node_type": "item",
@@ -347,7 +366,8 @@
             "owner": "Charlie85270",
             "repo": "Dorothy",
             "stars": 341
-          }
+          },
+          "first_seen": "2026-08-28T21:09:04.140Z"
         },
         {
           "node_type": "item",
@@ -361,8 +381,9 @@
             "last_commit": "2026-08-27T11:55:17Z",
             "owner": "a7t-ai",
             "repo": "poirot",
-            "stars": 205
-          }
+            "stars": 207
+          },
+          "first_seen": "2026-08-28T21:09:04.140Z"
         },
         {
           "node_type": "item",
@@ -377,7 +398,8 @@
             "owner": "larryxiao",
             "repo": "openquack",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T21:09:04.140Z"
         },
         {
           "node_type": "item",
@@ -388,11 +410,12 @@
             "archived": false,
             "id": 1156578833,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T23:02:03Z",
+            "last_commit": "2026-08-28T12:39:31Z",
             "owner": "codika-io",
             "repo": "clave",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T21:09:04.140Z"
         },
         {
           "node_type": "item",
@@ -407,7 +430,8 @@
             "owner": "btangonan",
             "repo": "anima",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:09:04.140Z"
         }
       ],
       "title": "Desktop & Mobile Applications"
@@ -426,11 +450,12 @@
                 "archived": false,
                 "id": 662766482,
                 "language": "Python",
-                "last_commit": "2026-08-27T18:07:29Z",
+                "last_commit": "2026-08-28T15:15:55Z",
                 "owner": "The-PR-Agent",
                 "repo": "pr-agent",
-                "stars": 12735
-              }
+                "stars": 12748
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -444,8 +469,9 @@
                 "last_commit": "2026-08-25T13:15:58Z",
                 "owner": "Nayjest",
                 "repo": "Gito",
-                "stars": 429
-              }
+                "stars": 428
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -460,7 +486,8 @@
                 "owner": "tarmojussila",
                 "repo": "zai-code-review",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -475,7 +502,8 @@
                 "owner": "tarmojussila",
                 "repo": "minimax-code-review",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -490,7 +518,8 @@
                 "owner": "alexyan0431",
                 "repo": "issue-ai-agent",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -505,7 +534,8 @@
                 "owner": "Lucas2944",
                 "repo": "prpack-action",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             }
           ],
           "description": "Integrations that automatically review pull requests and suggest code fixes:",
@@ -532,8 +562,9 @@
                 "last_commit": "2026-08-27T07:31:57Z",
                 "owner": "mindfold-ai",
                 "repo": "Trellis",
-                "stars": 14275
-              }
+                "stars": 14295
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -544,11 +575,12 @@
                 "archived": false,
                 "id": 1123331936,
                 "language": "Go",
-                "last_commit": "2026-08-27T15:33:57Z",
+                "last_commit": "2026-08-28T19:00:50Z",
                 "owner": "marcus",
                 "repo": "sidecar",
                 "stars": 1049
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -559,11 +591,12 @@
                 "archived": false,
                 "id": 1188762020,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:52:14Z",
+                "last_commit": "2026-08-28T21:05:13Z",
                 "owner": "sipyourdrink-ltd",
                 "repo": "bernstein",
-                "stars": 1011
-              }
+                "stars": 1023
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -578,7 +611,8 @@
                 "owner": "swarmclawai",
                 "repo": "swarmclaw",
                 "stars": 653
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -593,7 +627,8 @@
                 "owner": "0xranx",
                 "repo": "golembot",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -608,7 +643,8 @@
                 "owner": "PacificStudio",
                 "repo": "openase",
                 "stars": 265
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -619,11 +655,12 @@
                 "archived": false,
                 "id": 1147536369,
                 "language": "TypeScript",
-                "last_commit": "2026-08-10T08:46:59Z",
+                "last_commit": "2026-08-28T11:27:00Z",
                 "owner": "shep-ai",
                 "repo": "shep",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -634,11 +671,12 @@
                 "archived": false,
                 "id": 1171667371,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T17:09:22Z",
+                "last_commit": "2026-08-28T19:34:03Z",
                 "owner": "looptroop-ai",
                 "repo": "LoopTroop",
-                "stars": 127
-              }
+                "stars": 128
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -653,7 +691,8 @@
                 "owner": "bolivian-peru",
                 "repo": "os-moda",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -664,11 +703,12 @@
                 "archived": false,
                 "id": 1201775350,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T18:24:38Z",
+                "last_commit": "2026-08-28T18:44:30Z",
                 "owner": "avelikiy",
                 "repo": "great_cto",
-                "stars": 84
-              }
+                "stars": 85
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -679,11 +719,12 @@
                 "archived": false,
                 "id": 1201775350,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T18:24:38Z",
+                "last_commit": "2026-08-28T18:44:30Z",
                 "owner": "avelikiy",
                 "repo": "great_cto",
-                "stars": 84
-              }
+                "stars": 85
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -698,7 +739,8 @@
                 "owner": "LucasDuys",
                 "repo": "forge",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -713,7 +755,8 @@
                 "owner": "samfoy",
                 "repo": "pi-ralph",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -728,7 +771,8 @@
                 "owner": "kagan-sh",
                 "repo": "kagan",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             }
           ],
           "description": "Platforms for running multiple AI coding agents in parallel with workspace isolation:",
@@ -746,11 +790,12 @@
                 "archived": false,
                 "id": 454467716,
                 "language": "Rust",
-                "last_commit": "2026-08-27T20:13:25Z",
+                "last_commit": "2026-08-28T20:32:19Z",
                 "owner": "metalbear-co",
                 "repo": "mirrord",
-                "stars": 5279
-              }
+                "stars": 5281
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -764,8 +809,9 @@
                 "last_commit": "2026-08-27T16:24:56Z",
                 "owner": "Th0rgal",
                 "repo": "sandboxed.sh",
-                "stars": 491
-              }
+                "stars": 492
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -779,8 +825,9 @@
                 "last_commit": "2026-08-27T20:03:50Z",
                 "owner": "stacklok",
                 "repo": "brood-box",
-                "stars": 62
-              }
+                "stars": 63
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -795,7 +842,8 @@
                 "owner": "agenttier",
                 "repo": "agenttier",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             }
           ],
           "description": "Secure isolated environments for running AI coding agents with controlled access:",
@@ -816,8 +864,9 @@
                 "last_commit": "2026-07-26T12:08:51Z",
                 "owner": "caliber-ai-org",
                 "repo": "ai-setup",
-                "stars": 1251
-              }
+                "stars": 1253
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -831,8 +880,9 @@
                 "last_commit": "2026-06-30T20:28:43Z",
                 "owner": "swarmclawai",
                 "repo": "swarmvault",
-                "stars": 672
-              }
+                "stars": 673
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -843,11 +893,12 @@
                 "archived": false,
                 "id": 1175591394,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:20:51Z",
+                "last_commit": "2026-08-28T02:18:57Z",
                 "owner": "juyterman1000",
                 "repo": "entroly",
                 "stars": 440
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -858,11 +909,12 @@
                 "archived": false,
                 "id": 1152272504,
                 "language": "Shell",
-                "last_commit": "2026-08-26T15:01:23Z",
+                "last_commit": "2026-08-28T20:45:04Z",
                 "owner": "digipulse-engineering",
                 "repo": "GAAI-framework",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -873,11 +925,12 @@
                 "archived": false,
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:54:45Z",
+                "last_commit": "2026-08-28T20:37:47Z",
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -892,7 +945,8 @@
                 "owner": "c0x12c",
                 "repo": "ai-toolkit",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -907,7 +961,8 @@
                 "owner": "fastxyz",
                 "repo": "skill-optimizer",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -922,7 +977,8 @@
                 "owner": "GeiserX",
                 "repo": "LynxPrompt",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -937,7 +993,8 @@
                 "owner": "MonadWorks",
                 "repo": "agentify",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -952,7 +1009,8 @@
                 "owner": "sisyphusse1-ops",
                 "repo": "claude-code-pro-pack",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -967,7 +1025,8 @@
                 "owner": "Wolfe-Jam",
                 "repo": "faf-cli",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -982,7 +1041,8 @@
                 "owner": "YawLabs",
                 "repo": "ctxlint",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -997,7 +1057,8 @@
                 "owner": "samfoy",
                 "repo": "pi-steering-hooks",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -1012,7 +1073,8 @@
                 "owner": "mzmmoazam",
                 "repo": "claude-overlay",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -1027,7 +1089,8 @@
                 "owner": "ainova-systems",
                 "repo": "intelligence-sync",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -1042,7 +1105,8 @@
                 "owner": "adhenawer",
                 "repo": "claude-snapshot",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -1057,7 +1121,8 @@
                 "owner": "henu-wang",
                 "repo": "tokrepo",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -1072,7 +1137,8 @@
                 "owner": "sisyphusse1-ops",
                 "repo": "cc-audit",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             }
           ],
           "description": "Tools that manage and sync AI agent configurations, rules, and context across editors:",
@@ -1090,11 +1156,12 @@
                 "archived": false,
                 "id": 1107676388,
                 "language": "Rust",
-                "last_commit": "2026-08-27T08:47:59Z",
+                "last_commit": "2026-08-28T20:50:19Z",
                 "owner": "junhoyeo",
                 "repo": "tokscale",
-                "stars": 5186
-              }
+                "stars": 5203
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -1109,7 +1176,8 @@
                 "owner": "onllm-dev",
                 "repo": "onWatch",
                 "stars": 718
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -1124,7 +1192,8 @@
                 "owner": "Astro-Han",
                 "repo": "claude-pace",
                 "stars": 226
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -1138,8 +1207,9 @@
                 "last_commit": "2026-08-24T01:09:37Z",
                 "owner": "luoyuctl",
                 "repo": "agenttrace",
-                "stars": 123
-              }
+                "stars": 124
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -1154,7 +1224,8 @@
                 "owner": "melagiri",
                 "repo": "code-insights",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -1169,7 +1240,8 @@
                 "owner": "jeongwookie",
                 "repo": "WhereMyTokens",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -1184,7 +1256,8 @@
                 "owner": "CodeShuX",
                 "repo": "tokenwise",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             },
             {
               "node_type": "item",
@@ -1199,7 +1272,8 @@
                 "owner": "O0000-code",
                 "repo": "cc-tempo",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:09:04.140Z"
             }
           ],
           "description": "Tools for monitoring token usage and API costs across AI providers:",
@@ -1224,8 +1298,9 @@
             "last_commit": "2026-07-23T07:25:59Z",
             "owner": "jnMetaCode",
             "repo": "ai-coding-guide",
-            "stars": 510
-          }
+            "stars": 509
+          },
+          "first_seen": "2026-08-28T21:09:04.140Z"
         },
         {
           "node_type": "item",
@@ -1236,11 +1311,12 @@
             "archived": false,
             "id": 1233573842,
             "language": null,
-            "last_commit": "2026-08-27T18:03:41Z",
+            "last_commit": "2026-08-28T18:03:09Z",
             "owner": "nowork-studio",
             "repo": "awesome-ai-startups",
-            "stars": 77
-          }
+            "stars": 79
+          },
+          "first_seen": "2026-08-28T21:09:04.140Z"
         },
         {
           "node_type": "item",
@@ -1255,14 +1331,15 @@
             "owner": "johnxie",
             "repo": "awesome-code-docs",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T21:09:04.140Z"
         }
       ],
       "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:14:10.314Z",
+    "last_updated": "2026-08-28T21:09:04.140Z",
     "original_repository_info": {
       "archived": false,
       "id": 674164679,
@@ -1270,7 +1347,7 @@
       "last_commit": "2026-08-27T15:25:27Z",
       "owner": "jamesmurdza",
       "repo": "awesome-ai-devtools",
-      "stars": 3920
+      "stars": 3921
     },
     "original_repository_sha": "90b5d6207719bbffa7417eeee3d326145accfa33",
     "enhanced_repository": "enhansome/enhansome-ai-devtools",
