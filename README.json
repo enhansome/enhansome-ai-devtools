@@ -12,12 +12,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobile companion for Google's Antigravity IDE. Mirror AI sessions on your phone, send messages, stop generation, automate via 9 MCP tools or OpenAPI.",
+                "homepage": "https://github.com/cafeTechne/antigravity-link-extension",
                 "id": 1142132744,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-06-04T05:55:39Z",
+                "open_issues": 5,
                 "owner": "cafeTechne",
                 "repo": "antigravity-link-extension",
-                "stars": 209
+                "stars": 209,
+                "topics": [
+                  "ai-tools",
+                  "antigravity",
+                  "chrome-devtools-protocol",
+                  "claude",
+                  "developer-tools",
+                  "mcp",
+                  "mcp-server",
+                  "mobile",
+                  "model-context-protocol",
+                  "openapi",
+                  "typescript",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -28,12 +46,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Annotate/Draw any web UI for AI agents and export structured context, no app code changes required.",
+                "homepage": "https://onui.onllm.dev",
                 "id": 1155875522,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-28T14:55:44Z",
+                "open_issues": 1,
                 "owner": "onllm-dev",
                 "repo": "onUI",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             }
@@ -57,12 +80,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+                "homepage": "https://cmux.com",
                 "id": 1144115288,
                 "language": "Swift",
-                "last_commit": "2026-08-28T21:08:11Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:12:19Z",
+                "open_issues": 4638,
                 "owner": "manaflow-ai",
                 "repo": "cmux",
-                "stars": 26554
+                "stars": 26558,
+                "topics": [
+                  "amp",
+                  "claude-code",
+                  "cli",
+                  "codex",
+                  "coding-agents",
+                  "gemini",
+                  "ghostty",
+                  "macos",
+                  "multiplexer",
+                  "multitasking",
+                  "opencode",
+                  "organization",
+                  "parallel-agents",
+                  "programmability",
+                  "terminal",
+                  "terminal-multiplexer",
+                  "tmux",
+                  "workspace-manager"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -73,12 +120,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Frozen — compressed spec-driven development plugin for Claude Code. Still works; active development moved to JuliusBrussee/caveman.",
+                "homepage": "https://caveman.so/",
                 "id": 1182025682,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-14T22:07:51Z",
+                "open_issues": 17,
                 "owner": "JuliusBrussee",
                 "repo": "cavekit",
-                "stars": 1142
+                "stars": 1142,
+                "topics": [
+                  "claude-code",
+                  "parallel-agents",
+                  "skills",
+                  "spec-driven-development",
+                  "test-driven-development"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             }
@@ -96,12 +154,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行",
+                "homepage": "https://ccg.fengshao1227.com",
                 "id": 1127793756,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T04:59:03Z",
+                "open_issues": 3,
                 "owner": "fengshao1227",
                 "repo": "ccg-workflow",
-                "stars": 5853
+                "stars": 5853,
+                "topics": [
+                  "agent-teams",
+                  "ai",
+                  "ccg",
+                  "claude-code",
+                  "cli",
+                  "codex",
+                  "gemini",
+                  "llm",
+                  "no-de",
+                  "nodejs",
+                  "opsxspec",
+                  "prompt",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -112,12 +189,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
+                "homepage": "https://iwe.md",
                 "id": 860188605,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T11:59:35Z",
+                "open_issues": 1,
                 "owner": "iwe-org",
                 "repo": "iwe",
-                "stars": 1582
+                "stars": 1582,
+                "topics": [
+                  "ai-agents",
+                  "ai-memory",
+                  "cli",
+                  "helix",
+                  "knowledge-graph",
+                  "knowledge-management",
+                  "language-server",
+                  "local-first",
+                  "lsp",
+                  "markdown",
+                  "mcp",
+                  "neovim",
+                  "note-taking",
+                  "notes",
+                  "okf",
+                  "pkm",
+                  "productivity",
+                  "rust",
+                  "zed",
+                  "zettelkasten"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -128,12 +231,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
+                "homepage": "https://github.com/Houseofmvps/codesight",
                 "id": 1201469843,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-27T13:30:50Z",
+                "open_issues": 2,
                 "owner": "Houseofmvps",
                 "repo": "codesight",
-                "stars": 1390
+                "stars": 1390,
+                "topics": [
+                  "ai",
+                  "claude",
+                  "cli",
+                  "code-analysis",
+                  "codebase",
+                  "codex",
+                  "context-engineering",
+                  "copilot",
+                  "cursor",
+                  "developer-tools",
+                  "llm",
+                  "mcp",
+                  "repo-map",
+                  "token-savings"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -144,12 +267,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TUI and CLI for browsing models.dev, benchmarks, coding agents, and statuses for AI providers.",
+                "homepage": "https://reyamira.github.io/models/",
                 "id": 1130545281,
                 "language": "Rust",
-                "last_commit": "2026-08-28T20:48:31Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:48:21Z",
+                "open_issues": 0,
                 "owner": "reyamira",
                 "repo": "models",
-                "stars": 501
+                "stars": 501,
+                "topics": [
+                  "ai",
+                  "anamolyco",
+                  "artificial-analysis",
+                  "benchmarks",
+                  "coding-agents",
+                  "models-dev",
+                  "openclaw",
+                  "ratatui",
+                  "rust",
+                  "status",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -160,12 +300,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One CLI to orchestrate them all. Manage a team of AI agents executing tasks in parallel from your terminal using a command line interface to manage them all. Manage a team of artificial intelligence agents who perform tasks in parallel from your terminal or offline on a local or server",
+                "homepage": "https://www.orch.one/",
                 "id": 1178236559,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-01T19:52:18Z",
+                "open_issues": 7,
                 "owner": "oxgeneral",
                 "repo": "ORCH",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "agent-orchestration",
+                  "ai-agents",
+                  "claude-code",
+                  "cli-tool",
+                  "multi-agent",
+                  "orchestrator",
+                  "server-agents"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -176,12 +329,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source AI coding agent and agent runtime: one binary, any model, MCP-native. Runs in terminal, CI, or as a daemon.",
+                "homepage": "https://octomind.run",
                 "id": 994166447,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:40:43Z",
+                "open_issues": 2,
                 "owner": "Muvon",
                 "repo": "octomind",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "agentic-ai",
+                  "ai",
+                  "ai-agents",
+                  "ai-assistant",
+                  "ai-developer",
+                  "autonomous-agents",
+                  "claude-code",
+                  "cli",
+                  "cli-app",
+                  "code-assist-tool",
+                  "code-assistant",
+                  "developer-tools",
+                  "development",
+                  "mcp",
+                  "mcp-server",
+                  "rust",
+                  "semantic-search",
+                  "vibe-coding"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -192,12 +369,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI for AI-assisted manual code review",
+                "homepage": "https://docs.baz.co",
                 "id": 1061808649,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-25T15:27:15Z",
+                "open_issues": 3,
                 "owner": "baz-scm",
                 "repo": "baz-cli",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "ai",
+                  "cli",
+                  "code",
+                  "review",
+                  "review-tools",
+                  "reviewer",
+                  "spec",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -208,12 +399,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GPTComet: AI-Powered Git Commit Message Generator",
+                "homepage": null,
                 "id": 837247857,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-14T10:11:04Z",
+                "open_issues": 0,
                 "owner": "belingud",
                 "repo": "gptcomet",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "ai",
+                  "chatgpt",
+                  "cli",
+                  "commit",
+                  "commit-message",
+                  "git",
+                  "gpt"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -224,12 +428,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn any Java, Kotlin or Python project into an AI-ready context file in one command.",
+                "homepage": null,
                 "id": 1194545869,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-22T11:40:36Z",
+                "open_issues": 0,
                 "owner": "Shashwat-Gupta57",
                 "repo": "Jctx",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "ai",
+                  "chatgpt",
+                  "claude",
+                  "claude-code",
+                  "cli",
+                  "code-analysis",
+                  "context",
+                  "developer-tools",
+                  "java",
+                  "kotlin",
+                  "markdown",
+                  "productivity",
+                  "python",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -240,12 +464,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pack a pull request into one markdown file optimized for LLM code review.",
+                "homepage": null,
                 "id": 1234878436,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-12T20:18:08Z",
+                "open_issues": 3,
                 "owner": "Lucas2944",
                 "repo": "prpack",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ai",
+                  "claude",
+                  "cli",
+                  "code-review",
+                  "cursor",
+                  "developer-tools",
+                  "github-actions",
+                  "llm",
+                  "pull-request"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             }
@@ -269,12 +508,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reflex - The instant, code-aware local search engine.",
+                "homepage": "https://rfx-search.dev",
                 "id": 1087387030,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-06T04:28:50Z",
+                "open_issues": 2,
                 "owner": "reflex-search",
                 "repo": "reflex",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -285,12 +529,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GRASP — Code architecture visualizer + 150-tool MCP server. Dependency graphs, security scanning, multimodal knowledge graph, ORM tracking, git change impact, graph schema v3. Works with GitHub, GitLab & local dirs. 35 languages. Zero data collection.",
+                "homepage": "https://ashfordeou.github.io/grasp",
                 "id": 1213896055,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-17T13:40:59Z",
+                "open_issues": 0,
                 "owner": "ashfordeOU",
                 "repo": "grasp",
-                "stars": 16
+                "stars": 17,
+                "topics": [
+                  "ai",
+                  "architecture",
+                  "browser-extension",
+                  "claude-code",
+                  "code-analysis",
+                  "code-architecture",
+                  "code-intelligence",
+                  "cursor",
+                  "dependency-graph",
+                  "developer-tools",
+                  "dora-metrics",
+                  "github-action",
+                  "jetbrains-plugin",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "security-scanner",
+                  "static-analysis",
+                  "visualization",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -301,12 +571,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate AI context files from your codebase's actual conventions. Not what agents already know — what they keep missing.",
+                "homepage": null,
                 "id": 1191237951,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-16T15:19:13Z",
+                "open_issues": 0,
                 "owner": "maroondlabs",
                 "repo": "sourcebook",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "agents-md",
+                  "ai-coding",
+                  "ai-context",
+                  "claude-code",
+                  "claude-md",
+                  "codebase-context",
+                  "cursor-rules",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             }
@@ -328,12 +614,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree",
+            "homepage": "https://parallelcode.app",
             "id": 1160727878,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:34:56Z",
+            "open_issues": 49,
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 996
+            "stars": 996,
+            "topics": [
+              "ai-agents",
+              "ai-coding",
+              "ai-tools",
+              "claude-code",
+              "codex-cli",
+              "coding-agent",
+              "developer-tools",
+              "gemini-cli",
+              "git-worktree",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T21:09:04.140Z"
         },
@@ -344,12 +646,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The IM for agents. Shared Agent Context & Memory, supervised execution, and cross-agent audit across AI providers.",
+            "homepage": "https://im.codes",
             "id": 1185233810,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T18:56:46Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:12:56Z",
+            "open_issues": 0,
             "owner": "im4codes",
             "repo": "imcodes",
-            "stars": 973
+            "stars": 973,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "automation",
+              "claude",
+              "claude-code",
+              "codex",
+              "codex-cli",
+              "gemini",
+              "gemini-cli",
+              "instant-messaging",
+              "openai",
+              "openclaw"
+            ]
           },
           "first_seen": "2026-08-28T21:09:04.140Z"
         },
@@ -360,12 +680,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dorothy, the wife your AI agents needs.",
+            "homepage": "https://dorothyai.app",
             "id": 1141019362,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-07T13:21:25Z",
+            "open_issues": 11,
             "owner": "Charlie85270",
             "repo": "Dorothy",
-            "stars": 341
+            "stars": 341,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-tools",
+              "orchestration"
+            ]
           },
           "first_seen": "2026-08-28T21:09:04.140Z"
         },
@@ -376,12 +706,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A native macOS companion for Claude Code that lets you browse sessions, explore diffs, and re-run commands.",
+            "homepage": "https://poirot.fyi",
             "id": 1161536004,
             "language": "Swift",
-            "last_commit": "2026-08-27T11:55:17Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:31:57Z",
+            "open_issues": 5,
             "owner": "a7t-ai",
             "repo": "poirot",
-            "stars": 207
+            "stars": 208,
+            "topics": [
+              "ai",
+              "claude",
+              "claude-code",
+              "codex",
+              "companion-app",
+              "dev-tools",
+              "homebrew-cask",
+              "macos",
+              "mcp",
+              "native-macos",
+              "open-ai",
+              "session-viewer",
+              "sparkle",
+              "swift",
+              "swiftui",
+              "transcript-viewer"
+            ]
           },
           "first_seen": "2026-08-28T21:09:04.140Z"
         },
@@ -392,12 +744,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Voice dictation menu-bar app for macOS. Press a hotkey, speak, transcript appears at the cursor. Whisper runs locally via WhisperKit on Apple Silicon — no audio, text, or telemetry leaves your Mac. MIT, Swift.",
+            "homepage": "https://larryxiao.github.io/openquack",
             "id": 1224861741,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-24T03:12:12Z",
+            "open_issues": 12,
             "owner": "larryxiao",
             "repo": "openquack",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "apple-silicon",
+              "claude-code",
+              "cursor",
+              "dictation",
+              "local-first",
+              "macos",
+              "menu-bar",
+              "privacy",
+              "speech-to-text",
+              "superwhisper-alternative",
+              "swift",
+              "swiftui",
+              "transcription",
+              "voice-coding",
+              "voice-typing",
+              "whisper",
+              "whisperkit",
+              "wispr-flow-alternative"
+            ]
           },
           "first_seen": "2026-08-28T21:09:04.140Z"
         },
@@ -408,12 +784,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A macOS desktop app for managing multiple Claude Code sessions",
+            "homepage": null,
             "id": 1156578833,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:39:31Z",
+            "open_issues": 2,
             "owner": "codika-io",
             "repo": "clave",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "claude",
+              "claude-code",
+              "developer-tools",
+              "electron",
+              "macos",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T21:09:04.140Z"
         },
@@ -424,12 +812,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native macOS companion for Claude Code. Per-project ASCII familiars, nim token economy, cross-session watcher. Tauri v2 + Rust, 4MB binary.",
+            "homepage": null,
             "id": 1193316667,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-16T04:34:52Z",
+            "open_issues": 3,
             "owner": "btangonan",
             "repo": "anima",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "ai",
+              "ai-companion",
+              "ascii-art",
+              "claude-code",
+              "companion",
+              "desktop-app",
+              "developer-tools",
+              "macos",
+              "open-source",
+              "pixel-art",
+              "rust",
+              "tauri",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T21:09:04.140Z"
         }
@@ -448,12 +855,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+                "homepage": "https://www.pr-agent.ai",
                 "id": 662766482,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:15:55Z",
+                "open_issues": 99,
                 "owner": "The-PR-Agent",
                 "repo": "pr-agent",
-                "stars": 12748
+                "stars": 12750,
+                "topics": [
+                  "ai",
+                  "anthropic",
+                  "code-review",
+                  "coding-assistant",
+                  "devtools",
+                  "ollama",
+                  "openai",
+                  "pull-request",
+                  "pull-requests"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -464,12 +886,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.",
+                "homepage": "http://gito.bot/",
                 "id": 975457832,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T13:15:58Z",
+                "open_issues": 63,
                 "owner": "Nayjest",
                 "repo": "Gito",
-                "stars": 428
+                "stars": 428,
+                "topics": [
+                  "ai",
+                  "ai-code-analysis",
+                  "ai-code-review",
+                  "ai-code-reviewer",
+                  "ai-coding",
+                  "ai-coding-assistant",
+                  "ai-coding-tools",
+                  "code-analysis",
+                  "code-audit",
+                  "code-quality",
+                  "code-review",
+                  "codereview",
+                  "developer-tools",
+                  "github",
+                  "github-actions",
+                  "github-copilot",
+                  "llm",
+                  "python",
+                  "software-engineering",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -480,12 +928,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Z.ai Code Review for GitHub Actions",
+                "homepage": null,
                 "id": 1163987910,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-16T15:17:28Z",
+                "open_issues": 2,
                 "owner": "tarmojussila",
                 "repo": "zai-code-review",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "ai",
+                  "ai-assisted",
+                  "ai-code-review",
+                  "automation",
+                  "ci-cd",
+                  "code-quality",
+                  "code-review",
+                  "github-actions",
+                  "glm",
+                  "llm",
+                  "pull-request",
+                  "zai"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -496,12 +962,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MiniMax Code Review for GitHub Actions",
+                "homepage": null,
                 "id": 1163988406,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-16T16:29:18Z",
+                "open_issues": 4,
                 "owner": "tarmojussila",
                 "repo": "minimax-code-review",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "ai",
+                  "ai-assisted",
+                  "ai-code-review",
+                  "automation",
+                  "ci-cd",
+                  "code-quality",
+                  "code-review",
+                  "github-actions",
+                  "llm",
+                  "minimax",
+                  "pull-request"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -512,12 +995,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-powered GitHub Issue triage Action — auto-classify, label, detect duplicates, and reply",
+                "homepage": null,
                 "id": 1242593599,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-21T01:43:31Z",
+                "open_issues": 2,
                 "owner": "alexyan0431",
                 "repo": "issue-ai-agent",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "ai",
+                  "claude",
+                  "github-actions",
+                  "issue-triage",
+                  "llm",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -528,12 +1023,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub Action: pack each PR into one markdown file optimized for LLM code review.",
+                "homepage": null,
                 "id": 1234965267,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-12T20:18:07Z",
+                "open_issues": 0,
                 "owner": "Lucas2944",
                 "repo": "prpack-action",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "ai",
+                  "claude",
+                  "cli",
+                  "code-review",
+                  "cursor",
+                  "developer-tools",
+                  "github-actions",
+                  "llm",
+                  "pull-request"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             }
@@ -557,12 +1067,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The best agent harness.",
+                "homepage": "https://docs.trytrellis.app",
                 "id": 1142423471,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T07:31:57Z",
+                "open_issues": 37,
                 "owner": "mindfold-ai",
                 "repo": "Trellis",
-                "stars": 14295
+                "stars": 14297,
+                "topics": [
+                  "agentic-coding",
+                  "ai-workflow",
+                  "claudecode",
+                  "codex",
+                  "harness"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -573,12 +1094,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td",
+                "homepage": null,
                 "id": 1123331936,
                 "language": "Go",
-                "last_commit": "2026-08-28T19:00:50Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:09:59Z",
+                "open_issues": 30,
                 "owner": "marcus",
                 "repo": "sidecar",
-                "stars": 1049
+                "stars": 1049,
+                "topics": [
+                  "agentic-ai",
+                  "agentic-workflows",
+                  "claude-code",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -589,12 +1120,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deterministic orchestrator for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). No model in the coordination loop, so parallel runs in per-task git worktrees replay byte-identically. Signed lineage plus an opt-in HMAC audit chain a reviewer checks offline. Cluster mode, air-gap deploy. Status: beta. https://bernstein.run",
+                "homepage": "https://bernstein.run",
                 "id": 1188762020,
                 "language": "Python",
-                "last_commit": "2026-08-28T21:05:13Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:13:45Z",
+                "open_issues": 141,
                 "owner": "sipyourdrink-ltd",
                 "repo": "bernstein",
-                "stars": 1023
+                "stars": 1026,
+                "topics": [
+                  "agent-fleet",
+                  "agent-infrastructure",
+                  "agent-orchestrator",
+                  "agent-swarm",
+                  "ai-orchestration",
+                  "aider",
+                  "air-gap",
+                  "attestation",
+                  "audit-log",
+                  "audit-trail",
+                  "autonomous-coding",
+                  "deterministic-replay",
+                  "git-worktree",
+                  "git-worktrees",
+                  "llm-orchestration",
+                  "orchestrator",
+                  "parallel-agents",
+                  "provenance",
+                  "reproducibility",
+                  "tamper-evident"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -605,12 +1162,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source self-hosted AI agent runtime and multi-agent framework for autonomous agent swarms. Agent memory, MCP tools, schedules, delegation, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama). A practical Claude Code and LangChain alternative.",
+                "homepage": "https://www.swarmclaw.ai",
                 "id": 1161242607,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-30T20:58:13Z",
+                "open_issues": 15,
                 "owner": "swarmclawai",
                 "repo": "swarmclaw",
-                "stars": 653
+                "stars": 654,
+                "topics": [
+                  "agent-framework",
+                  "agent-memory",
+                  "agent-runtime",
+                  "agent-swarm",
+                  "agents",
+                  "ai",
+                  "ai-agent-framework",
+                  "ai-agents",
+                  "autonomous-agents",
+                  "claude",
+                  "claude-code-alternative",
+                  "langchain-alternative",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "multi-agent",
+                  "ollama",
+                  "openclaw",
+                  "orchestration",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -621,12 +1204,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Any Agent × Any Provider × Anywhere. Connect Cursor, Claude Code, OpenCode, or Codex to Slack, Telegram, Discord, Feishu, DingTalk, WeCom, WeChat — with any LLM provider.",
+                "homepage": "https://0xranx.github.io/golembot/",
                 "id": 1169838651,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-18T13:44:13Z",
+                "open_issues": 8,
                 "owner": "0xranx",
                 "repo": "golembot",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "ai",
+                  "ai-agent",
+                  "ai-assistant",
+                  "bot-framework",
+                  "chatbot",
+                  "claude-code",
+                  "cli",
+                  "codex",
+                  "coding-agent",
+                  "cursor",
+                  "dingtalk",
+                  "discord",
+                  "feishu",
+                  "lark",
+                  "llm",
+                  "opencode",
+                  "slack",
+                  "telegram",
+                  "typescript",
+                  "wecom"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -637,12 +1246,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ticket-Driven Automated Software Engineering. OpenASE is an all-in-one platform that turns tickets into working code — AI agents automatically pick up tickets, execute workflows on your machines, and deliver results with full traceability.",
+                "homepage": "https://pacificstudio.ai",
                 "id": 1186420311,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-09T09:05:00Z",
+                "open_issues": 45,
                 "owner": "PacificStudio",
                 "repo": "openase",
-                "stars": 265
+                "stars": 265,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "software-engineering"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -653,12 +1271,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ship features 10x faster. Built In Auto: Memory, K8S Agent & Security (SDD+SDLC) . 😇",
+                "homepage": "https://shep.bot",
                 "id": 1147536369,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:27:00Z",
+                "open_issues": 7,
                 "owner": "shep-ai",
                 "repo": "shep",
-                "stars": 247
+                "stars": 247,
+                "topics": [
+                  "agent-orchestration",
+                  "agentic-ai",
+                  "ai",
+                  "ai-agents",
+                  "ai-code-generation",
+                  "ai-coding",
+                  "ai-native",
+                  "automation",
+                  "claude",
+                  "claude-code",
+                  "cli",
+                  "cursor",
+                  "developer-tools",
+                  "devtools",
+                  "gemini",
+                  "git-worktrees",
+                  "parallel-development",
+                  "sdlc",
+                  "typescript",
+                  "worktrees"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -669,12 +1313,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local AI coding orchestration for repo-scale work: LLM-council planning, Ralph-loop recovery, isolated OpenCode worktrees, and human-gated PR delivery.",
+                "homepage": "https://www.looptroop.ovh/",
                 "id": 1171667371,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T19:34:03Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T01:42:53Z",
+                "open_issues": 3,
                 "owner": "looptroop-ai",
                 "repo": "LoopTroop",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "agent-orchestration",
+                  "agentic-ai",
+                  "agentic-coding",
+                  "agentic-workflow",
+                  "ai-agents",
+                  "ai-coding",
+                  "ai-orchestration",
+                  "context-engineering",
+                  "llm-council",
+                  "llm-orchestration",
+                  "multi-agent-orchestration",
+                  "opencode",
+                  "ralph-loop"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -685,12 +1348,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An operating system built for AI agents — talk to your NixOS server instead of SSH-ing in. Typed, audited tool access with atomic rollback on every change. Research-grade; run it on a disposable box, not production.",
+                "homepage": "https://spawn.os.moda",
                 "id": 1162325253,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-24T03:56:01Z",
+                "open_issues": 11,
                 "owner": "bolivian-peru",
                 "repo": "os-moda",
-                "stars": 116
+                "stars": 116,
+                "topics": [
+                  "a2a",
+                  "agent-runtime",
+                  "ai",
+                  "ai-agent",
+                  "automation",
+                  "claude-code",
+                  "devops",
+                  "erc-8004",
+                  "infrastructure",
+                  "linux",
+                  "mcp",
+                  "nix",
+                  "nixos",
+                  "openclaw",
+                  "rust",
+                  "self-healing",
+                  "self-hosted",
+                  "server-management",
+                  "sysadmin",
+                  "x402"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -701,12 +1390,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Don't buy software. Get the work done. GreatCTO ships AI autopilots that run a whole business function — medical coding, legal docs, procurement, accounting, IT, tax — from intake to outcome. A qualified human signs only the judgment calls. Live connectors, built-in compliance.",
+                "homepage": "https://greatcto.systems",
                 "id": 1201775350,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:44:30Z",
+                "open_issues": 4,
                 "owner": "avelikiy",
                 "repo": "great_cto",
-                "stars": 85
+                "stars": 86,
+                "topics": [
+                  "agentic-coding",
+                  "claude-code-plugin",
+                  "claude-code-skills",
+                  "claude-code-subagents",
+                  "code-review",
+                  "cto",
+                  "multi-agent",
+                  "sdlc"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -717,12 +1420,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Don't buy software. Get the work done. GreatCTO ships AI autopilots that run a whole business function — medical coding, legal docs, procurement, accounting, IT, tax — from intake to outcome. A qualified human signs only the judgment calls. Live connectors, built-in compliance.",
+                "homepage": "https://greatcto.systems",
                 "id": 1201775350,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:44:30Z",
+                "open_issues": 4,
                 "owner": "avelikiy",
                 "repo": "great_cto",
-                "stars": 85
+                "stars": 86,
+                "topics": [
+                  "agentic-coding",
+                  "claude-code-plugin",
+                  "claude-code-skills",
+                  "claude-code-subagents",
+                  "code-review",
+                  "cto",
+                  "multi-agent",
+                  "sdlc"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -733,12 +1450,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn a one-line idea into a branch with tested, reviewed, committed code. The brainstorm-to-commit pipeline for Claude Code.",
+                "homepage": "https://lucasduys.github.io/forge/",
                 "id": 1188062629,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-15T10:22:40Z",
+                "open_issues": 0,
                 "owner": "LucasDuys",
                 "repo": "forge",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "agentic-ai",
+                  "ai-agent",
+                  "ai-coding-agent",
+                  "ai-tools",
+                  "anthropic",
+                  "automation",
+                  "autonomous-coding",
+                  "claude",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "cli",
+                  "code-generation",
+                  "coding-assistant",
+                  "developer-tools",
+                  "llm",
+                  "mcp",
+                  "model-context-protocol",
+                  "workflow-automation"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -749,12 +1490,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hat-based multi-agent orchestration loops for pi coding agent",
+                "homepage": null,
                 "id": 1172208155,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-14T15:01:59Z",
+                "open_issues": 1,
                 "owner": "samfoy",
                 "repo": "pi-ralph",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "ai-coding-agent",
+                  "autonomous-agents",
+                  "developer-tools",
+                  "multi-agent",
+                  "orchestration",
+                  "pi-coding-agent"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -765,12 +1518,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenCode Plugin for supervised agentic software development on a Kanban board",
+                "homepage": "http://kagan.sh",
                 "id": 1291533844,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-28T11:07:01Z",
+                "open_issues": 7,
                 "owner": "kagan-sh",
                 "repo": "kagan",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "anthropic",
+                  "kagan",
+                  "kanban",
+                  "kanban-board",
+                  "llm-harness",
+                  "mit-license",
+                  "open-source",
+                  "openai",
+                  "opencode",
+                  "opencode-ai",
+                  "opencode-plugin",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             }
@@ -788,12 +1561,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.",
+                "homepage": "https://metalbear.com/mirrord",
                 "id": 454467716,
                 "language": "Rust",
-                "last_commit": "2026-08-28T20:32:19Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:37:19Z",
+                "open_issues": 73,
                 "owner": "metalbear-co",
                 "repo": "mirrord",
-                "stars": 5281
+                "stars": 5281,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "ai-coding",
+                  "api",
+                  "backend",
+                  "claude-code",
+                  "cli",
+                  "cloud",
+                  "cloud-native",
+                  "debug",
+                  "developer-tools",
+                  "development",
+                  "devops",
+                  "devtool",
+                  "ide",
+                  "jetbrains",
+                  "kubernetes",
+                  "rust",
+                  "traffic",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -804,12 +1603,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Safe runtime for autonomous on-chain AI agents: isolated sandboxes, Library skills, encrypted secrets.",
+                "homepage": "https://sandboxed.sh",
                 "id": 1116744615,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-08-27T16:24:56Z",
+                "open_issues": 16,
                 "owner": "Th0rgal",
                 "repo": "sandboxed.sh",
-                "stars": 492
+                "stars": 492,
+                "topics": [
+                  "ai-agents",
+                  "autonomous-agents",
+                  "claude",
+                  "claude-code",
+                  "coding-assistant",
+                  "containerization",
+                  "developer-tools",
+                  "llm",
+                  "mcp",
+                  "okx",
+                  "opencode",
+                  "orchestration",
+                  "self-hosted",
+                  "web3",
+                  "workspace-isolation",
+                  "xagent-hackathon"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -820,12 +1641,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI tool for running coding agents inside hardware-isolated microVMs",
+                "homepage": null,
                 "id": 1157363528,
                 "language": "Go",
-                "last_commit": "2026-08-27T20:03:50Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:04:06Z",
+                "open_issues": 13,
                 "owner": "stacklok",
                 "repo": "brood-box",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "ai-agents",
+                  "claude-code",
+                  "codex",
+                  "developer-tools",
+                  "microvm",
+                  "sandbox",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -836,12 +1670,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kubernetes-native sandbox platform to run AI agents, coding assistants and harnesses.",
+                "homepage": null,
                 "id": 1233544257,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T03:15:27Z",
+                "open_issues": 18,
                 "owner": "agenttier",
                 "repo": "agenttier",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "ai-agents",
+                  "coding-agent",
+                  "harness"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             }
@@ -859,12 +1702,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Continuously sync your AI setups with one command. Codebase tailor suited agent skills, MCPs and config files for Claude Code, Cursor, and Codex.",
+                "homepage": "https://trycaliber.ai",
                 "id": 1178198291,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-26T12:08:51Z",
+                "open_issues": 16,
                 "owner": "caliber-ai-org",
                 "repo": "ai-setup",
-                "stars": 1253
+                "stars": 1253,
+                "topics": [
+                  "agent-config",
+                  "ai-agents",
+                  "anthropic",
+                  "claude-code",
+                  "claude-md",
+                  "cli",
+                  "codex",
+                  "cursor",
+                  "cursorrules",
+                  "developer-tools",
+                  "llm",
+                  "mcp",
+                  "openai",
+                  "openai-codex",
+                  "skills"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -875,12 +1739,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.",
+                "homepage": "https://www.swarmvault.ai",
                 "id": 1203219280,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-30T20:28:43Z",
+                "open_issues": 8,
                 "owner": "swarmclawai",
                 "repo": "swarmvault",
-                "stars": 673
+                "stars": 673,
+                "topics": [
+                  "agent-memory",
+                  "ai-agents",
+                  "claude-code",
+                  "claude-code-memory",
+                  "codex",
+                  "karpathy",
+                  "knowledge-graph",
+                  "llm",
+                  "llm-wiki",
+                  "local-first",
+                  "mcp",
+                  "mcp-server",
+                  "obsidian",
+                  "obsidian-alternative",
+                  "openclaw",
+                  "opencode",
+                  "personal-knowledge-management",
+                  "pkm",
+                  "rag",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -891,12 +1781,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cut AI context cost without trusting the compressor. Every reduction is reversible, byte-exact recoverable, and carries an auditable receipt. Local-first, works through proxy, MCP, SDK, or agent wrapper.",
+                "homepage": "https://juyterman1000.github.io/entroly/docs/index.html",
                 "id": 1175591394,
                 "language": "Python",
-                "last_commit": "2026-08-28T02:18:57Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:04:55Z",
+                "open_issues": 2,
                 "owner": "juyterman1000",
                 "repo": "entroly",
-                "stars": 440
+                "stars": 440,
+                "topics": [
+                  "agent",
+                  "ai-agents",
+                  "ai-coding-agents",
+                  "claude-code",
+                  "codex",
+                  "context-compression",
+                  "context-engineering",
+                  "context-optimization",
+                  "context-window",
+                  "developer-tools-ai-agent",
+                  "github-copilot",
+                  "graph",
+                  "hallucination-detection",
+                  "harness-engineering",
+                  "llm",
+                  "loop-engineering",
+                  "mcp",
+                  "openclaw",
+                  "token-optimization",
+                  "tokenomics"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -907,12 +1823,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turns AI coding tools into reliable software delivery systems. Drop a .gaai/ folder into any project — Discovery defines what to build, Delivery executes autonomously until criteria pass. Works with Claude Code, Codex CLI, Gemini CLI, Cursor, and more. No SDK. No package. Markdown + YAML + bash.",
+                "homepage": null,
                 "id": 1152272504,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:45:04Z",
+                "open_issues": 4,
                 "owner": "digipulse-engineering",
                 "repo": "GAAI-framework",
-                "stars": 161
+                "stars": 161,
+                "topics": [
+                  "agentic-coding",
+                  "ai-agents",
+                  "ai-coding",
+                  "ai-developer-tools",
+                  "ai-governance",
+                  "ai-memory-system",
+                  "autonomous-agents",
+                  "claude-code",
+                  "codex-cli",
+                  "context-engineering",
+                  "cursor",
+                  "devtools",
+                  "gemini-cli",
+                  "opencode",
+                  "vibe-coding",
+                  "windsurf"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -923,12 +1861,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+                "homepage": "https://console.kubestellar.io",
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T20:37:47Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:07:20Z",
+                "open_issues": 16,
                 "owner": "kubestellar",
                 "repo": "console",
-                "stars": 129
+                "stars": 129,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -939,12 +1882,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1187981248,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-06-18T04:29:47Z",
+                "open_issues": 2,
                 "owner": "c0x12c",
                 "repo": "ai-toolkit",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -955,12 +1903,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs",
+                "homepage": null,
                 "id": 1174343965,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-28T17:39:51Z",
+                "open_issues": 14,
                 "owner": "fastxyz",
                 "repo": "skill-optimizer",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "ai",
+                  "ai-agent",
+                  "ai-skill",
+                  "benchmark",
+                  "cli",
+                  "eval",
+                  "evals",
+                  "evaluation",
+                  "evaluation-framework",
+                  "llm",
+                  "llm-eval",
+                  "llm-evals",
+                  "llm-evaluation-framework",
+                  "mcp",
+                  "openrouter",
+                  "optimizer",
+                  "sdk",
+                  "tool-calling"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -971,12 +1943,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AGENTS.md, CLAUDE.md, and more",
+                "homepage": "https://lynxprompt.com",
                 "id": 1120259177,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T11:46:05Z",
+                "open_issues": 1,
                 "owner": "GeiserX",
                 "repo": "LynxPrompt",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "agents-md",
+                  "ai-ide",
+                  "ai-tools",
+                  "claude-code",
+                  "configuration-management",
+                  "copilot",
+                  "cursor",
+                  "cursorrules",
+                  "developer-tools",
+                  "docker",
+                  "generative-ai",
+                  "llmops",
+                  "lynxprompt",
+                  "nextjs",
+                  "open-source",
+                  "prompt-engineering",
+                  "prompt-management",
+                  "self-hosted",
+                  "vibe-coding",
+                  "windsurf"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -987,12 +1985,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent Interface Compiler — One command. Every agent speaks your product. Transform OpenAPI specs into MCP Servers, Skills, CLAUDE.md, AGENTS.md, and more.",
+                "homepage": null,
                 "id": 1174141057,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-16T11:40:23Z",
+                "open_issues": 0,
                 "owner": "MonadWorks",
                 "repo": "agentify",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "a2a",
+                  "agent",
+                  "agent-native",
+                  "agents-md",
+                  "ai",
+                  "ai-agents",
+                  "claude",
+                  "cli",
+                  "compiler",
+                  "copilot",
+                  "cursor",
+                  "llms-txt",
+                  "mcp",
+                  "model-context-protocol",
+                  "openapi",
+                  "openapi3",
+                  "skills",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -1003,12 +2025,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLAUDE.md + AGENTS.md 12-rule behavior file for Claude Code, Codex, Cursor, Hermes — drop-in, ~700 tokens, cuts AI coding mistakes ~40%→~3%",
+                "homepage": "https://sisyphusse1-ops.github.io/claude-code-pro-pack/",
                 "id": 1234965356,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-05-10T23:22:48Z",
+                "open_issues": 0,
                 "owner": "sisyphusse1-ops",
                 "repo": "claude-code-pro-pack",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "agents-md",
+                  "ai-agents",
+                  "ai-coding",
+                  "anthropic",
+                  "claude",
+                  "claude-code",
+                  "claude-md",
+                  "codex",
+                  "coding-agent",
+                  "cursor",
+                  "hermes-agent",
+                  "karpathy",
+                  "llm",
+                  "prd-template",
+                  "prompt-engineering"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -1019,12 +2062,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The context every AI coding agent reads — authors AGENTS.md, CLAUDE.md, GEMINI.md & .cursorrules from your repo's real stack. IANA-registered .faf format.",
+                "homepage": "https://faf.one",
                 "id": 1046716559,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-22T19:47:52Z",
+                "open_issues": 1,
                 "owner": "Wolfe-Jam",
                 "repo": "faf-cli",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "agents-md",
+                  "ai",
+                  "ai-agents",
+                  "ai-context",
+                  "anthropic",
+                  "claude",
+                  "claude-code",
+                  "cli",
+                  "code-generation",
+                  "command-line-tool",
+                  "context-engineering",
+                  "cursor",
+                  "developer-tools",
+                  "faf",
+                  "gemini",
+                  "iana",
+                  "mcp",
+                  "npm",
+                  "typescript",
+                  "yaml"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -1035,12 +2104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lint your AI agent context files (CLAUDE.md, AGENTS.md, etc.) against your actual codebase",
+                "homepage": null,
                 "id": 1202330554,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-23T18:08:13Z",
+                "open_issues": 0,
                 "owner": "YawLabs",
                 "repo": "ctxlint",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -1051,12 +2125,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deterministic tool-call guardrails for pi — enforce rules with before-tool hooks instead of prompts",
+                "homepage": null,
                 "id": 1211753666,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-14T15:02:01Z",
+                "open_issues": 1,
                 "owner": "samfoy",
                 "repo": "pi-steering-hooks",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "agent-guardrails",
+                  "ai-coding-agent",
+                  "developer-tools",
+                  "guardrails",
+                  "pi-coding-agent",
+                  "safety",
+                  "steering"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -1067,12 +2154,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage project-level Claude Code configuration for custom model providers (Databricks, Bedrock, OpenRouter, LiteLLM, Cloudflare)",
+                "homepage": null,
                 "id": 1206811645,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-05-14T03:52:13Z",
+                "open_issues": 0,
                 "owner": "mzmmoazam",
                 "repo": "claude-overlay",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "ai",
+                  "anthropic",
+                  "bedrock",
+                  "claude",
+                  "claude-code",
+                  "claude-code-proxy",
+                  "cli",
+                  "databricks",
+                  "developer-tools",
+                  "litellm",
+                  "llm",
+                  "mcp",
+                  "openrouter"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -1083,12 +2189,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Archived - replaced by the Intelligence CLI (Single source of truth for AI coding rules across Claude Code, Cursor, Copilot, Codex, and more. Write once, sync everywhere)",
+                "homepage": "https://github.com/ainova-systems/intelligence",
                 "id": 1207981022,
                 "language": "Shell",
-                "last_commit": "2026-08-26T18:08:50Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:46:35Z",
+                "open_issues": 0,
                 "owner": "ainova-systems",
                 "repo": "intelligence-sync",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "agent-skills",
+                  "agents-md",
+                  "ai-agents",
+                  "ai-coding",
+                  "ai-first",
+                  "ai-first-sdlc",
+                  "archived",
+                  "claude-code",
+                  "codex",
+                  "coding-standards",
+                  "cursor",
+                  "developer-tools",
+                  "github-copilot",
+                  "llm",
+                  "multi-agent",
+                  "prompt-engineering"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -1099,12 +2227,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Portable Claude Code setup snapshots — export, diff, and apply your config across machines",
+                "homepage": null,
                 "id": 1212105730,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-19T15:03:21Z",
+                "open_issues": 1,
                 "owner": "adhenawer",
                 "repo": "claude-snapshot",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "claude-code",
+                  "claude-code-plugin",
+                  "cli",
+                  "config-sync",
+                  "developer-tools",
+                  "dotfiles",
+                  "snapshot"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -1115,12 +2256,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Canonical GitHub landing page for TokRepo, the agent-native registry for reusable AI assets.",
+                "homepage": "https://tokrepo.com",
                 "id": 1199091512,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-18T10:28:42Z",
+                "open_issues": 0,
                 "owner": "henu-wang",
                 "repo": "tokrepo",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "a2a-agent-card",
+                  "agent-infrastructure",
+                  "agent-manifest",
+                  "agent-skills",
+                  "agent-tools",
+                  "ai-agents",
+                  "claude-code",
+                  "codex",
+                  "cursor",
+                  "developer-tools",
+                  "gemini-cli",
+                  "llms-txt",
+                  "mcp",
+                  "mcp-registry",
+                  "mcp-server",
+                  "prompts",
+                  "skills",
+                  "tokrepo",
+                  "tool-discovery",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -1131,12 +2298,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lint any CLAUDE.md / AGENTS.md against the 12-rule baseline. One Python file, no deps, ~200 lines.",
+                "homepage": "https://sisyphusse1-ops.github.io/claude-code-pro-pack/",
                 "id": 1234975525,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-10T23:22:47Z",
+                "open_issues": 0,
                 "owner": "sisyphusse1-ops",
                 "repo": "cc-audit",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "agents-md",
+                  "ai-agents",
+                  "ci",
+                  "claude",
+                  "claude-code",
+                  "claude-md",
+                  "cli",
+                  "codex",
+                  "cursor",
+                  "linter",
+                  "quality-gate"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             }
@@ -1154,12 +2338,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.",
+                "homepage": "https://tokscale.ai",
                 "id": 1107676388,
                 "language": "Rust",
-                "last_commit": "2026-08-28T20:50:19Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:12:04Z",
+                "open_issues": 68,
                 "owner": "junhoyeo",
                 "repo": "tokscale",
-                "stars": 5203
+                "stars": 5206,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "ampcode",
+                  "claude",
+                  "claude-code",
+                  "clawdbot",
+                  "codex",
+                  "cursor",
+                  "cursor-ide",
+                  "droid",
+                  "gemini",
+                  "gemini-cli",
+                  "gpt",
+                  "hermes",
+                  "moltbot",
+                  "oh",
+                  "openclaw",
+                  "opencode",
+                  "opentui",
+                  "token-usage"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -1170,12 +2380,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (<50MB RAM), SQLite storage, Material Design 3 dashboard. Zero telemetry.",
+                "homepage": "https://onwatch.onllm.dev",
                 "id": 1151441959,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-20T17:19:37Z",
+                "open_issues": 9,
                 "owner": "onllm-dev",
                 "repo": "onWatch",
-                "stars": 718
+                "stars": 718,
+                "topics": [
+                  "ai-api-monitoring",
+                  "antigravity",
+                  "api-monitoring",
+                  "claude-code",
+                  "codex",
+                  "developer-tools",
+                  "golang",
+                  "openai",
+                  "quota-tracker",
+                  "zai"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -1186,12 +2412,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code statusline and rate limit tracker with pace-aware quota monitoring. Pure Bash + jq, single file.",
+                "homepage": null,
                 "id": 1185502912,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-07-28T06:23:06Z",
+                "open_issues": 3,
                 "owner": "Astro-Han",
                 "repo": "claude-pace",
-                "stars": 226
+                "stars": 226,
+                "topics": [
+                  "anthropic",
+                  "bash",
+                  "claude",
+                  "claude-code",
+                  "claude-code-statusline",
+                  "cli",
+                  "developer-tools",
+                  "jq",
+                  "plugin",
+                  "quota-tracker",
+                  "rate-limit",
+                  "statusline",
+                  "terminal",
+                  "usage-monitor",
+                  "usage-tracking"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -1202,12 +2449,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health｜本地优先 Rust TUI/CLI，审计 AI 编程 Agent 会话的成本、Token、延迟、失败与健康度",
+                "homepage": "https://github.com/luoyuctl/agenttrace",
                 "id": 1226187070,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-24T01:09:37Z",
+                "open_issues": 7,
                 "owner": "luoyuctl",
                 "repo": "agenttrace",
-                "stars": 124
+                "stars": 124,
+                "topics": [
+                  "ai-agent-observability",
+                  "ai-agents",
+                  "ai-cost-tracking",
+                  "claude-code",
+                  "codex-cli",
+                  "coding-agent",
+                  "cursor",
+                  "gemini-cli",
+                  "opencode",
+                  "qwen-code",
+                  "rust",
+                  "rust-cli",
+                  "session-history",
+                  "token-usage",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -1218,12 +2486,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn your AI coding sessions into knowledge.",
+                "homepage": "https://code-insights.app",
                 "id": 1138806810,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-01T02:09:18Z",
+                "open_issues": 13,
                 "owner": "melagiri",
                 "repo": "code-insights",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "ai-coding-analytics",
+                  "claude-code",
+                  "codex",
+                  "cursor",
+                  "developer-tools",
+                  "llm",
+                  "local-first",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -1234,12 +2516,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local-first Windows tray app for monitoring Claude Code and Codex tokens, costs, sessions, and rate limits",
+                "homepage": null,
                 "id": 1201849259,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T16:01:37Z",
+                "open_issues": 1,
                 "owner": "jeongwookie",
                 "repo": "WhereMyTokens",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "ai-coding",
+                  "anthropic",
+                  "anthropic-claude",
+                  "claude-ai",
+                  "claude-code",
+                  "codex",
+                  "codex-cli",
+                  "developer-tools",
+                  "electron",
+                  "local-first",
+                  "openai",
+                  "openai-codex",
+                  "rate-limits",
+                  "system-tray",
+                  "token-usage",
+                  "usage-monitoring",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -1250,12 +2555,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cut Claude Code spend without sacrificing quality — and prove it. Haiku/Sonnet/Opus router with real $-saved numbers, not vibes.",
+                "homepage": null,
                 "id": 1235672782,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-26T10:58:33Z",
+                "open_issues": 0,
                 "owner": "CodeShuX",
                 "repo": "tokenwise",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "ai-cost-optimization",
+                  "anthropic",
+                  "claude",
+                  "claude-code",
+                  "claude-skill",
+                  "cost-reduction",
+                  "developer-tools",
+                  "haiku",
+                  "llm-router",
+                  "model-routing",
+                  "opus",
+                  "productivity",
+                  "sonnet",
+                  "subagents",
+                  "token-optimization"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             },
@@ -1266,12 +2592,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Claude Code statusline that measures real work time, SubAgent speedup, and code-churn pace — not just tokens and cost.",
+                "homepage": null,
                 "id": 1214164941,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-05-07T11:30:23Z",
+                "open_issues": 0,
                 "owner": "O0000-code",
                 "repo": "cc-tempo",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "anthropic",
+                  "claude",
+                  "claude-code",
+                  "statusline"
+                ]
               },
               "first_seen": "2026-08-28T21:09:04.140Z"
             }
@@ -1293,12 +2629,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI 编程工具实战指南 — 66 个 Claude Code 技巧 + 9 款工具最佳实践 + 可复制配置模板 | AI Coding Tools Guide with 66 Claude Code tips",
+            "homepage": null,
             "id": 1193430229,
             "language": "CSS",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-23T07:25:59Z",
+            "open_issues": 0,
             "owner": "jnMetaCode",
             "repo": "ai-coding-guide",
-            "stars": 509
+            "stars": 509,
+            "topics": [
+              "ai-coding",
+              "ai-programming",
+              "ai-tools",
+              "aider",
+              "best-practices",
+              "chinese",
+              "claude-code",
+              "copilot",
+              "cursor",
+              "gemini-cli",
+              "prompt-engineering",
+              "vibe-coding",
+              "windsurf"
+            ]
           },
           "first_seen": "2026-08-28T21:09:04.140Z"
         },
@@ -1309,12 +2664,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of indie-built AI startups — bootstrapped, pre-seed, and angel-funded products only.",
+            "homepage": "https://superpublic.org",
             "id": 1233573842,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-28T18:03:09Z",
+            "open_issues": 36,
             "owner": "nowork-studio",
             "repo": "awesome-ai-startups",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "ai-agents",
+              "ai-tools",
+              "awesome",
+              "awesome-ai",
+              "awesome-list",
+              "geo",
+              "marketing",
+              "marketing-automation",
+              "marketing-tools",
+              "mcp",
+              "mcp-server",
+              "seo"
+            ]
           },
           "first_seen": "2026-08-28T21:09:04.140Z"
         },
@@ -1325,12 +2698,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "203 deep-dive tutorials for AI agents, LLM frameworks, coding tools, MCP, and open-source developer platforms",
+            "homepage": "https://github.com/johnxie/awesome-code-docs#-tutorial-catalog",
             "id": 1050751344,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T10:04:44Z",
+            "open_issues": 0,
             "owner": "johnxie",
             "repo": "awesome-code-docs",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "ai-agents",
+              "ai-coding-assistant",
+              "ai-tutorial",
+              "awesome-list",
+              "awesome-lists",
+              "bolt-diy",
+              "cline",
+              "developer-tools",
+              "documentation",
+              "generative-ai",
+              "langchain",
+              "llm",
+              "machine-learning",
+              "mcp",
+              "open-source",
+              "openhands",
+              "rag",
+              "roo-code",
+              "tutorials",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T21:09:04.140Z"
         }
@@ -1339,15 +2738,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:09:04.140Z",
+    "last_updated": "2026-08-29T04:17:24.338Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of AI-powered developer tools.",
+      "homepage": null,
       "id": 674164679,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-27T15:25:27Z",
+      "open_issues": 271,
       "owner": "jamesmurdza",
       "repo": "awesome-ai-devtools",
-      "stars": 3921
+      "stars": 3922,
+      "topics": []
     },
     "original_repository_sha": "90b5d6207719bbffa7417eeee3d326145accfa33",
     "enhanced_repository": "enhansome/enhansome-ai-devtools",
